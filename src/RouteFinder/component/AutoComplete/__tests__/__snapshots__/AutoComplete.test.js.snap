@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Autocomplete /> Component Test Case  Autocomplete Component render 1`] = `ShallowWrapper {}`;

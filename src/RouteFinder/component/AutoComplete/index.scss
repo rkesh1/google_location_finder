@@ -1,0 +1,22 @@
+.form-element{
+    & input[type=text] {
+        background: white;
+        padding: 10px;
+        width: 215px;
+
+        @media only screen and (max-width: 1200px) {
+            box-sizing: border-box;
+            width: 90%;
+        }
+    }
+    & label.input-label {
+        padding-bottom: 10px;
+        display: block;
+      }
+
+    & .cross{
+        cursor: pointer;
+        padding-left: 10px;
+        color: red;
+    }
+}

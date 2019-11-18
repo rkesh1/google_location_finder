@@ -1,0 +1,29 @@
+  .formContainer {
+    padding: 20px;
+
+    & .form-element {
+        margin-bottom: 20px;
+
+        &.form-controller{
+          margin-top: 40px;
+        }
+      }
+
+      & .error-container{
+        padding: 20 0px;
+        & p{
+          color: red;
+          font-weight: 700;
+        }
+      }
+      & .info{
+        padding: 20 0px;
+      }
+      
+  }
+
+  
+
+  
+
+  

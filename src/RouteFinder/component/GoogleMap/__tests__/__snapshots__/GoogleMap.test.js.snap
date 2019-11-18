@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GoogleMap Component Test Case  GoogleMap Component render 1`] = `ShallowWrapper {}`;
